@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/portfolio_fall_2019/static/js/main.bd501aa3.chunk.js",
+    "main.js.map": "/portfolio_fall_2019/static/js/main.bd501aa3.chunk.js.map",
+    "runtime-main.js": "/portfolio_fall_2019/static/js/runtime-main.9df8533a.js",
+    "runtime-main.js.map": "/portfolio_fall_2019/static/js/runtime-main.9df8533a.js.map",
+    "static/js/2.0d58de2b.chunk.js": "/portfolio_fall_2019/static/js/2.0d58de2b.chunk.js",
+    "static/js/2.0d58de2b.chunk.js.map": "/portfolio_fall_2019/static/js/2.0d58de2b.chunk.js.map",
+    "index.html": "/portfolio_fall_2019/index.html",
+    "precache-manifest.828d69b9b3ddfb4a9632f4bffb9d42c7.js": "/portfolio_fall_2019/precache-manifest.828d69b9b3ddfb4a9632f4bffb9d42c7.js",
+    "service-worker.js": "/portfolio_fall_2019/service-worker.js",
+    "static/media/gotfeedback.png": "/portfolio_fall_2019/static/media/gotfeedback.e1f3fa14.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9df8533a.js",
+    "static/js/2.0d58de2b.chunk.js",
+    "static/js/main.bd501aa3.chunk.js"
+  ]
+}
