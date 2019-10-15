@@ -3,17 +3,17 @@ import React from 'react';
 const Project = props => {
     return (
         <div className="item">
-            <div class="image">
+            <div className="image">
                 <img alt={props.imgalt} src={props.img} />
             </div>
             <div className="content">
-                <a href="#" class="header">
+                <a href="#" className="header">
                     {props.project}
                 </a>
                 <div className="description">
                     <p>{props.description}</p>
                 </div>
-                <div class="extra">
+                <div className="extra">
                     <a
                         href={props.githubhref}
                         className="ui right floated primary button"

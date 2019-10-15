@@ -7,7 +7,17 @@ import history from '../history';
 const App = () => {
     return (
         <div className="ui container">
-            <Router history={history}>
+            <Header />
+            <ProjectList />
+        </div>
+    );
+};
+
+export default App;
+
+/*
+     <div className="ui container">
+            <Router history={history} basename={process.env.PUBLIC_URL}>
                 <div>
                     <Header />
                     <Switch>
@@ -16,7 +26,10 @@ const App = () => {
                 </div>
             </Router>
         </div>
-    );
-};
+*/
 
-export default App;
+/* <div className="ui container">
+            <Header />
+            <ProjectList />
+        </div> 
+*/
